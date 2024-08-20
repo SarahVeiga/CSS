@@ -1,0 +1,31 @@
+/* Alterando cor por nome */
+.nome{
+    color:hotpink;
+    background-color:lightgoldenrodyellow;
+}
+
+/* Alterando cor hexadecimal */
+.hexadecimal{
+    color: #ff69b4;
+    background-color: #e0ffff;
+}
+
+/* Alterando cor por RGBA */
+/* Alterei a cor e deixei mais escuro */
+.rgba{
+    color: lightblue;
+    background-color:rgba(255, 105, 180, 0.61);
+}
+/* Alterando a segunda página */
+.titulo-background{
+    
+    background-color:#e0ffff;
+    color: #ff69b4;
+    text-align: end;
+}
+
+.div-background{
+    background-image: url(Anny.png);
+    height: 700px;
+    width: 1200px;
+}
