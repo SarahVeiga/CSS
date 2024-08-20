@@ -1,0 +1,30 @@
+/* Adicionando CSS */
+/* com seletor 'TAG' */
+
+h1{
+    color: deeppink;
+    font-size: 30px;
+}
+p{
+    font-weight: bold;
+}
+
+h2{
+    color:hotpink
+}
+/* Adiconando CSS */
+/* com seletor 'id' */
+/* ID NÃO pode ser compartilhado, só pode ser utilizado em um lugar */
+
+#paragrafo2{
+    color: dimgrey;
+    font: size 20px;;
+}
+
+/* Adiconando CSS */
+/* com seletor 'classe' */
+
+.p-texto{
+    color:black;
+    font-weight:normal;
+}
