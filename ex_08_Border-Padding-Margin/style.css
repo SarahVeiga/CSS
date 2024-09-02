@@ -1,0 +1,19 @@
+body{
+    margin:0;
+}
+
+.boxmodel{
+    width: 200px;
+    height: 200px;
+    color: black;
+    background-color:lightgoldenrodyellow;
+    /Espaçamento depois do conteúdo/
+    padding: 30px 30px;
+    /linha que fica após o padding/
+    border: 10px solid plum;
+    border-left: 15px dotted pink;
+    border-right-style: double;
+    border-radius: 100px;
+    /* adicionando espaço*/
+    margin: 10px 50px 100px 20px;   
+}
