@@ -9,5 +9,14 @@
 - Classe
 - ID
 - Modo Cores
+- Animação
+- Animação Times
+- Border, Padding e Margin
+- Position Static
+- CSS Position Relative
+- CSS Position Absolute
+- Position Fixed
+- CSS Position Sticky
+- Media Queries
 
  
